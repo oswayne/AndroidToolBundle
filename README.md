@@ -17,7 +17,8 @@ allprojects {
 2. 在模块的 `build.gradle` 文件中引入依赖:
 
 ```
-implementation 'com.github.oswayne:AndroidToolBundle:1.0.0'
+// 可以在 Release 页面中查看最新版本并替换版本号
+implementation 'com.github.oswayne:AndroidToolBundle:1.0.1'
 ```
 
 
