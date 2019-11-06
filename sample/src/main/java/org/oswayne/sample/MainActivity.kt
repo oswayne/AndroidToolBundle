@@ -1,4 +1,4 @@
-package org.carder.sample
+package org.oswayne.sample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

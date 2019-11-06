@@ -1,8 +1,8 @@
-package org.carder.sample
+package org.oswayne.sample
 
 import android.app.Application
 
-import org.carder.tool.Preferences
+import org.oswayne.tool.Preferences
 
 class MyApplication : Application() {
     override fun onCreate() {
